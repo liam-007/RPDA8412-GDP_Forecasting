@@ -241,10 +241,6 @@ notebook/RPDA8412_GDP_Forecasting.ipynb
 
 ---
 
-# 📦 **Recommended .gitignore Entries**
-
----
-
 # 📚 **References**
 
 (World Bank, IMF, Hyndman, Box–Jenkins, Makridakis, Petropoulos, etc.)
